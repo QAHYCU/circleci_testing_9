@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Say hello"
+          name: "Say helloo"
           command: "echo Hello, World HYQU!"
 
 # Orchestrate jobs using workflows
